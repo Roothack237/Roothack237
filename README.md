@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Roothack237
 - 👀 I’m interested in building educational games and websites
 - 🌱 I’m currently learning C programming and web development
-- 💞️ I’m looking to collaborate on Educational games for university students and E-learning websites
+- 💞️ I’m looking to collaborate on Educational games for university students and building websites
 - 📫 How to reach me manuellaefendehtagnie@gmail.com 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love coding while listerning to afro beats 
